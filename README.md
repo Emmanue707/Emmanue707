@@ -7,8 +7,7 @@ I'm a **Bachelor of Information Technology graduate** from Don Bosco Technologic
 ---
 
 ### **About Me**
-- **Founder @ Waghi Tech ICT Solutions**
-- **Co-founder of WAGHI PAY** — a digital wallet & payment platform for PNG (https://pay.waghitech.com)
+- **Founder @ [Waghi Tech](https://waghitech.com)** —
 - **Best Project in Technology Award Winner - 2024**, DBTI
 - I code in **PHP**, **JavaScript**, **Java**, and work with **MySQL**, **PostgreSQL**, **Spring Boot**, and **Angular/Ionic**
 - I’m hands-on with **network setup**, **Active Directory**, **Linux systems**, and **email server deployment**
@@ -20,27 +19,27 @@ I'm a **Bachelor of Information Technology graduate** from Don Bosco Technologic
 - **Backend**: PHP, Java (Spring Boot), Node.js
 - **Database**: MySQL, PostgreSQL
 - **DevOps**: Git, GitHub, Docker (learning), Jenkins, Maven
-- **Security**: Pentesting basics, Sophos AV deployments, and keen interest in PCI DSS compliance
+- **Security**: Pentesting basics, Sophos AV deployments, and strong interest in PCI DSS compliance
 - **Others**: Plex Mail Server, Virtualization, PC & Network Troubleshooting
 
 ---
 
-### **Highlighted Projects**
+### **Recent Projects**
 - **DBTI Online Registration & Payment System**  
-  Built a full-stack platform for student registration and payment processing. Includes login, receipt generation, email integration, and admin dashboard.  
+  A full-stack solution for digital student registration and tuition fee payment. Features include user login, dynamic receipt generation, email notifications, and secure admin control.  
   **Live**: [dbtionline.waghitech.com](https://dbtionline.waghitech.com)
 
 - **WAGHI PAY**  
-  Fintech app for PNG that supports QR code payments, P2P Visa card transfers, and retail POS integration.  
+  A digital wallet and mobile payment system built for the local PNG market. Supports QR code payments, P2P Visa transfers, and is scalable for retail POS use.  
   **Live**: [pay.waghitech.com](https://pay.waghitech.com)
 
 ---
 
 ### **Currently Exploring**
-- Kubernetes, Docker, and cloud-native deployments  
-- Java Spring Boot for enterprise backend systems  
-- Payment integration (Stripe, Visa, mobile top-ups)  
-- Scalable APIs and secure authentication (OAuth2, JWT)
+- Kubernetes, Docker, and cloud-native architecture  
+- Enterprise-grade Spring Boot backend systems  
+- Scalable REST APIs with JWT & OAuth2 authentication  
+- Secure transaction handling with Stripe integration
 
 ---
 
@@ -53,7 +52,3 @@ I'm a **Bachelor of Information Technology graduate** from Don Bosco Technologic
 
 > “Wasn't born a prince, but I'm heading for the throne.”  
 > I build tech with purpose — scalable, secure, and made for impact.
-
-<!---
-Emmanue707/Emmanue707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
