@@ -7,7 +7,7 @@ I'm a **Bachelor of Information Technology graduate** from Don Bosco Technologic
 ---
 
 ### **About Me**
-- **Founder @ [Waghi Tech](https://waghitech.com)** —
+- **Founder @ [Waghi Tech](https://waghitech.com)** — waghitech.com
 - **Best Project in Technology Award Winner - 2024**, DBTI
 - I code in **PHP**, **JavaScript**, **Java**, and work with **MySQL**, **PostgreSQL**, **Spring Boot**, and **Angular/Ionic**
 - I’m hands-on with **network setup**, **Active Directory**, **Linux systems**, and **email server deployment**
