@@ -18,7 +18,7 @@ I'm a **Bachelor of Information Technology graduate** from Don Bosco Technologic
 - **Frontend**: HTML5, CSS3, JavaScript, Angular + Ionic
 - **Backend**: PHP, Java (Spring Boot), Node.js
 - **Database**: MySQL, PostgreSQL
-- **DevOps**: Git, GitHub, Docker (learning), Jenkins, Maven
+- **DevOps**: Git, GitHub, Docker(learning)
 - **Security**: Pentesting basics, Sophos AV deployments, and strong interest in PCI DSS compliance
 - **Others**: Plex Mail Server, Virtualization, PC & Network Troubleshooting
 
