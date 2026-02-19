@@ -1,6 +1,3 @@
-Here’s a **cleaner, sharper, ultra-scannable** GitHub README based on your updated text:
-
-```markdown
 # Hi, I'm Emmanuel Kokele (@Emmanue707) 👋
 
 **Full-Stack Developer | Network Admin | Cybersecurity Enthusiast**  
