@@ -1,54 +1,36 @@
-# Hi, I'm Emmanuel Kokele (@Emmanue707)
+Here’s a **cleaner, sharper, ultra-scannable** GitHub README based on your updated text:
 
-Welcome to my GitHub profile!
+```markdown
+# Hi, I'm Emmanuel Kokele (@Emmanue707) 👋
 
-I'm a **Bachelor of Information Technology graduate** from Don Bosco Technological Institute (2024), specializing in **Full Stack Web Development**, **Network Administration**, and **Cybersecurity Fundamentals**. I love building tech solutions that solve real-world problems and push digital transformation forward in Papua New Guinea.
+**Full-Stack Developer | Network Admin | Cybersecurity Enthusiast**  
+BIT Graduate (2024) – Don Bosco Technological Institute  
+Building real-world tech solutions for Papua New Guinea 🚀
 
----
+**Founder** — [Waghi Tech](https://waghitech.com)  
+**Best Project in Technology Award** – DBTI 2024
 
-### **About Me**
-- **Founder @ [Waghi Tech](https://waghitech.com)** — waghitech.com
-- **Best Project in Technology Award Winner - 2024**, DBTI
-- I code in **PHP**, **JavaScript**, **Java**, and work with **MySQL**, **PostgreSQL**, **Spring Boot**, and **Angular/Ionic**
-- I’m hands-on with **network setup**, **Active Directory**, **Linux systems**, and **email server deployment**
+### Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript, Angular, Ionic  
+- **Backend**: PHP, Java (Spring Boot), Node.js  
+- **Databases**: MySQL, PostgreSQL  
+- **Others**: Git/GitHub, Linux, Active Directory, Docker (learning), Plex Mail Server, Virtualization
 
----
+### Featured Projects
+- **[DBTI Online Registration & Payment System](https://dbtionline.waghitech.com)**  
+  Full-stack student registration + secure payments, receipts & email notifications
 
-### **Tech Stack & Tools**
-- **Frontend**: HTML5, CSS3, JavaScript, Angular + Ionic
-- **Backend**: PHP, Java (Spring Boot), Node.js
-- **Database**: MySQL, PostgreSQL
-- **DevOps**: Git, GitHub, Docker(learning)
-- **Security**: Pentesting basics, Sophos AV deployments, and strong interest in PCI DSS compliance
-- **Others**: Plex Mail Server, Virtualization, PC & Network Troubleshooting
+- **[WAGHI PAY](https://pay.waghitech.com)**  
+  Digital wallet for PNG — QR payments, P2P Visa transfers, scalable POS
 
----
+### Currently Exploring
+Kubernetes • Docker • Cloud-native architecture • Secure transactions with Stripe
 
-### **Recent Projects**
-- **DBTI Online Registration & Payment System**  
-  A full-stack solution for digital student registration and tuition fee payment. Features include user login, dynamic receipt generation, email notifications, and secure admin control.  
-  **Live**: [dbtionline.waghitech.com](https://dbtionline.waghitech.com)
-
-- **WAGHI PAY**  
-  A digital wallet and mobile payment system built for the local PNG market. Supports QR code payments, P2P Visa transfers, and is scalable for retail POS use.  
-  **Live**: [pay.waghitech.com](https://pay.waghitech.com)
-
----
-
-### **Currently Exploring**
-- Kubernetes, Docker, and cloud-native architecture  
-- Enterprise-grade Spring Boot backend systems  
-- Scalable REST APIs with JWT & OAuth2 authentication  
-- Secure transaction handling with Stripe integration
-
----
-
-### **Let’s Connect**
-- **Email**: ekokele707@gmail.com  
-- **LinkedIn**: [linkedin.com/in/emmanuel-kokele-7472431b4](https://linkedin.com/in/emmanuel-kokele-7472431b4)  
-- **Portfolio**: [waghitech.com](https://waghitech.com) | [kokele.waghitech.com](https://kokele.waghitech.com)
-
----
+### Connect
+📧 ekokele707@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/emmanuel-kokele-7472431b4)  
+🌐 [Portfolio](https://kokele.waghitech.com) | [Waghi Tech](https://waghitech.com)
 
 > “Wasn't born a prince, but I'm heading for the throne.”  
-> I build tech with purpose — scalable, secure, and made for impact.
+> Building scalable, secure tech with real impact.
+```
