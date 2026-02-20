@@ -1,15 +1,15 @@
 # Hi, I'm Emmanuel Kokele (@Emmanue707) 👋
 
-**Full-Stack Developer | Network Admin | Cybersecurity Enthusiast**  
+**Full-Stack Developer | Network & Cybersecurity Enthusiast**  
 BIT Graduate (2024) – Don Bosco Technological Institute  
-Building real-world tech solutions for Papua New Guinea 🚀
+Building real-world tech solutions for Papua New Guinea 
 
 **Founder** — [Waghi Tech](https://waghitech.com)  
 **Best Project in Technology Award** – DBTI 2024
 
 ### Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript, Angular, Ionic  
-- **Backend**: PHP, Java (Spring Boot), Node.js  
+- **Backend**: PHP,Python
 - **Databases**: MySQL, PostgreSQL  
 - **Others**: Git/GitHub, Linux, Active Directory, Docker (learning), Plex Mail Server, Virtualization
 
