@@ -27,7 +27,4 @@ Kubernetes • Docker • Cloud-native architecture • Secure transactions with
 📧 ekokele707@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/emmanuel-kokele-7472431b4)  
 🌐 [Portfolio](https://kokele.waghitech.com) | [Waghi Tech](https://waghitech.com)
-
-> “Wasn't born a prince, but I'm heading for the throne.”  
-> Building scalable, secure tech with real impact.
 ```
