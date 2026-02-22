@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Kokele (@Emmanue707) 👋
 
-**Full-Stack Developer | Network & Cybersecurity Enthusiast**  
+**Web Developer | Cyber security enthusiast**  
 BIT Graduate (2024) – Don Bosco Technological Institute  
 Building real-world tech solutions for Papua New Guinea 
 
