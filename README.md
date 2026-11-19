@@ -12,6 +12,12 @@ I build full-stack web and mobile software at [Waghi Tech](https://waghitech.com
 | **Waghi Pay** — digital wallet: pay, send, and receive money; QR payments; web and Android | [pay.waghitech.com](https://pay.waghitech.com) | [Product page](https://waghitech.com/products/waghi-pay) | [Portfolio](https://kokele.waghitech.com/projects/waghi-pay/) |
 | **WaghiRecon** — domain reconnaissance: subdomains, HTTP probes, DNS/email security checks, exports | [tools.waghitech.com](https://tools.waghitech.com) | [Product page](https://waghitech.com/products/waghirecon) | [Portfolio](https://kokele.waghitech.com/projects/waghirecon/) |
 
+## Open source
+
+| Project | Description | Links |
+| --- | --- | --- |
+| **Sealim** — seal certificates and transcripts with signed QR codes that anyone can verify offline | Apache-2.0 · Rust, Go, WASM | [Repository](https://github.com/Emmanue707/sealim) · [Verifier](https://sealim.waghitech.com) · [Case study](https://kokele.waghitech.com/projects/sealim/) |
+
 ## Writing
 
 - [Designing a mobile-first student registration and payment system](https://kokele.waghitech.com/blog/designing-a-mobile-first-student-registration-and-payment-system/)
@@ -19,7 +25,7 @@ I build full-stack web and mobile software at [Waghi Tech](https://waghitech.com
 
 ## Tech
 
-PHP · MySQL · JavaScript · Python · Go · HTML/CSS · Linux · Docker · Git · networking · Active Directory
+PHP · MySQL · JavaScript · Python · Go · Rust · HTML/CSS · Linux · Docker · Git · networking · Active Directory
 
 ## Links
 
